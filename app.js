@@ -10,6 +10,6 @@ const function1 = () => {
 
 app.listen(port,function1);
 app.get('/', (req, res) =>{
-res.send('Hello raaances')
+res.send('Hello raaaaances')
 
 })
